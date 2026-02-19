@@ -1,0 +1,33 @@
+Library Login Form
+Introduction:
+Purpose: Library login form should allow the students or staff to login to library form so they can use the library services.
+Product perspective:
+show login screen
+user frienndly 
+should allow both student and staff
+Product function:
+should allow only registered users
+Give error messgae for incorrect password 
+Show the details of recent login
+
+overall description:
+The login form must be secure, protected and contain buttons like reset password, re-enter or delete options.
+Constraints:
+Good internet connection
+keeps user limits
+it is web based application
+Functional requirements:
+the system should allow:
+student and staff login
+Allows only registered user
+unauthorized access should ne denied.
+Non Functional requrements:
+reliable
+qick
+secure
+user friendly
+Acceptance criteria:
+library form must be safe and secure.
+everyone must get to login easily
+Give error message if its incorrect
+must contain reset password 
